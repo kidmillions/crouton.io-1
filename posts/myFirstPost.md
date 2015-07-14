@@ -1,5 +1,5 @@
 ---
-title: sample title
+title: another sample title
 tags: javascript, node
 fire: blah
 ---
