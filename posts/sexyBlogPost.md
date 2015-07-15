@@ -1,5 +1,5 @@
 ---
-Title: Title, baby!
+title: Title, baby!
 ---
 
 ##it's a sexy blog post gurl
